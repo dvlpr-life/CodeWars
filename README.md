@@ -58,30 +58,33 @@ Kata Listing
 17. [Best Parking Spot](https://www.codewars.com/kata/5859aaf04facfeb0d4002051 "Best Parking Spot")
     **Completed: 01-17-2018**
 
-18. [Simple division](https://www.codewars.com/kata/59ec2d112332430ce9000005 "Simple division")
+18. [Simple division](https://www.codewars.com/kata/59ec2d112332430ce9000005 "Simple division") <6 kyu>
     **Completed: 01-18-2018**
 
-19. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836 "Find the odd int")
+19. [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836 "Find the odd int") <6 kyu>
     **Completed: 01-19-2018**
 
-20. [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d "WeIrD StRiNg CaSe")
+20. [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d "WeIrD StRiNg CaSe") <6 kyu>
     **Completed: 01-20-2018**
 
-21. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b "Build Tower")
+21. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b "Build Tower") <6 kyu>
     **Completed: 01-21-2018**
 
-22. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83 "Create Phone Numberr")
+22. [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83 "Create Phone Number") <6 kyu>
     **Completed: 01-22-2018**
 
-23. [Moves in squared strings (III)](https://www.codewars.com/kata/56dbeec613c2f63be4000be6 "Moves in squared strings (III)")
+23. [Moves in squared strings (III)](https://www.codewars.com/kata/56dbeec613c2f63be4000be6 "Moves in squared strings (III)") <6 kyu>
     **Completed: 01-23-2018**
 
-24. [Rainfall](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006 "Rainfall")
+24. [Rainfall](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006 "Rainfall") <6 kyu>
     **Completed: 01-24-2018**
 
-25. [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](https://www.codewars.com/kata/592bdf59912f2209710000e9 "GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key")
+25. [GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key](https://www.codewars.com/kata/592bdf59912f2209710000e9 "GA-DE-RY-PO-LU-KI cypher vol 3 - Missing key") <6 kyu>
     **Completed: 01-25-2018**
 
-26. [Moves in squared strings (II)](https://www.codewars.com/kata/56dbe7f113c2f63570000b86/ "Moves in squared strings (II)")
+26. [Moves in squared strings (II)](https://www.codewars.com/kata/56dbe7f113c2f63570000b86/ "Moves in squared strings (II)") <6 kyu>
     **Completed: 01-26-2018**
+
+27. [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556 "Counting sheep...") <8 kyu>
+    **Completed: 11-29-2018**
 
