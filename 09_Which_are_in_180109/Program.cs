@@ -20,7 +20,7 @@ namespace _9_Which_are_in_180109
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(inArray(new string[] { "live","arp", "strong" },new string[] { "lively", "alive", "arp", "harp", "armstrong" }).ToString());
+            inArray(new string[] { "live","arp", "strong" },new string[] { "lively", "alive", "arp", "harp", "armstrong" }).ToList().ForEach(i => Console.WriteLine(i.ToString()));
         }
     }
 }

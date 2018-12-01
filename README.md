@@ -7,55 +7,55 @@ https://www.codewars.com/
 
 Kata Listing
 =================
-1. [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013 "Find the next perfect square!")
+1. [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013 "Find the next perfect square!") <7 kyu>
     **Completed: 01-01-2018**
 
-2. [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa "Categorize New Member")
+2. [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa "Categorize New Member") <7 kyu>
     **Completed: 01-02-2018**
 
-3. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4 "Bit Counting")
+3. [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4 "Bit Counting") <6 kyu>
     **Completed: 01-03-2018**
 
-4. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006 "Multiples of 3 or 5")
+4. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006 "Multiples of 3 or 5") <6 kyu>
     **Completed: 01-04-2018**
 
-5. [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5 "Dubstep")
+5. [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5 "Dubstep") <6 kyu>
     **Completed: 01-05-2018**
 
-6. [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers "Narcissistic Numbers")
+6. [Narcissistic Numbers](https://www.codewars.com/kata/narcissistic-numbers "Narcissistic Numbers") <7 kyu>
     **Completed: 01-06-2018**
 
-7. [Band name generator](https://www.codewars.com/kata/59727ff285281a44e3000011 "Band name generator")
+7. [Band name generator](https://www.codewars.com/kata/59727ff285281a44e3000011 "Band name generator") <7 kyu>
     **Completed: 01-07-2018**
 
-8. [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001 "RGB To Hex Conversion")
+8. [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001 "RGB To Hex Conversion") <5 kyu>
     **Completed: 01-08-2018**
 
-9. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58 "Which are in?")
+9. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58 "Which are in?") <6 kyu>
     **Completed: 01-09-2018**
 
-10. [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196 "CamelCase Method")
+10. [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196 "CamelCase Method") <6 kyu>
     **Completed: 01-10-2018**
 
-11. [Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95 "Common Denominatorsr")
+11. [Common Denominators](https://www.codewars.com/kata/54d7660d2daf68c619000d95 "Common Denominatorsr") <5 kyu>
     **Completed: 01-11-2018**
 
-12. [Integer depth](https://www.codewars.com/kata/59b401e24f98a813f9000026 "Integer depth")
+12. [Integer depth](https://www.codewars.com/kata/59b401e24f98a813f9000026 "Integer depth") <6 kyu>
     **Completed: 01-12-2018**
 
-13. [Convert PascalCase string into snake_case](https://www.codewars.com/kata/529b418d533b76924600085d "Convert PascalCase string into snake_case")
+13. [Convert PascalCase string into snake_case](https://www.codewars.com/kata/529b418d533b76924600085d "Convert PascalCase string into snake_case") <5 kyu>
     **Completed: 01-13-2018**
 
-14. [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21 "Adding Big Numbers")
+14. [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21 "Adding Big Numbers") <4 kyu>
     **Completed: 01-14-2018**
 
-15. [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110 "Not very secure")
+15. [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110 "Not very secure") <5 kyu>
     **Completed: 01-15-2018**
 
-16. [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc "Weight for weight")
+16. [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc "Weight for weight") <5 kyu>
     **Completed: 01-16-2018**
 
-17. [Best Parking Spot](https://www.codewars.com/kata/5859aaf04facfeb0d4002051 "Best Parking Spot")
+17. [Best Parking Spot](https://www.codewars.com/kata/5859aaf04facfeb0d4002051 "Best Parking Spot") <6 kyu>
     **Completed: 01-17-2018**
 
 18. [Simple division](https://www.codewars.com/kata/59ec2d112332430ce9000005 "Simple division") <6 kyu>
@@ -86,5 +86,8 @@ Kata Listing
     **Completed: 01-26-2018**
 
 27. [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556 "Counting sheep...") <8 kyu>
-    **Completed: 11-29-2018**
+    **Completed: 11-29-2018** Weekly Code Challenge
+
+28.  [Calculate Meal Total](https://www.codewars.com/kata/calculate-meal-total "Calculate Meal Total") <7 kyu>
+    **Completed: 11-30-2018** Weekly Code Challenge
 

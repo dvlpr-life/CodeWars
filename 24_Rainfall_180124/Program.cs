@@ -13,14 +13,14 @@ namespace _24_Rainfall_180124
         {
             // The dumb kata required this versus using the list
             if (!towns.Contains(town))
-            {return -1; }
+            { return -1; }
 
             if (!strng.Contains(town))
-            {return -1; }
+            { return -1; }
 
             var set = strng.Split('\n').First(x => x.StartsWith(town));
 
-            var d = new string (set.Where(y => (Char.IsDigit(y) || (y == '.') || (y == ','))).ToArray()).Split(',').Select(x => double.Parse(x));
+            var d = new string(set.Where(y => (Char.IsDigit(y) || (y == '.') || (y == ','))).ToArray()).Split(',').Select(x => double.Parse(x));
 
             return d.Average();
         }
@@ -43,7 +43,7 @@ namespace _24_Rainfall_180124
             {
                 v += Math.Pow((x - d.Average()), 2);
             }
-            return v  / d.Count();
+            return v / d.Count();
         }
         static void Main(string[] args)
         {
@@ -88,10 +88,16 @@ namespace _24_Rainfall_180124
             "Beijing:Jan 13.9,Feb 14.7,Mar 18.2,Apr 18.4,May 43.0,Jun 88.1,Jul 224.3,Aug 170.0,Sep 58.4,Oct 38.0,Nov 19.3,Dec 2.7" +
             "\n" +
             "Lima:Jan 11.2,Feb 10.9,Mar 10.7,Apr 10.4,May 10.6,Jun 11.8,Jul 14.4,Aug 13.1,Sep 23.3,Oct 1.7,Nov 0.5,Dec 10.7";
+
             Console.WriteLine(Mean("London", data).ToString());
             Console.WriteLine(Mean("Beijing", data).ToString());
-            Console.WriteLine(Variance("London",data).ToString());
+            Console.WriteLine(Variance("London", data).ToString());
             Console.WriteLine(Variance("Beijing", data).ToString());
+            Console.WriteLine("");
+            Console.WriteLine(Mean("London", data1).ToString());
+            Console.WriteLine(Mean("Beijing", data1).ToString());
+            Console.WriteLine(Variance("London", data1).ToString());
+            Console.WriteLine(Variance("Beijing", data1).ToString());
         }
     }
 }
