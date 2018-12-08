@@ -93,3 +93,6 @@ Kata Listing
 
 29.  [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086 "Is n divisible by x and y?") <8 kyu>
     **Completed: 12-07-2018** Weekly Coding Challenges (Countdown week 1)
+
+30.  [Will you make it?](https://www.codewars.com/kata/will-you-make-it "Will you make it?") <8 kyu>
+    **Completed: 12-07-2018** Weekly Coding Challenges (Countdown week 1)
