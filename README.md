@@ -89,5 +89,7 @@ Kata Listing
     **Completed: 11-29-2018** Weekly Code Challenge
 
 28.  [Calculate Meal Total](https://www.codewars.com/kata/calculate-meal-total "Calculate Meal Total") <7 kyu>
-    **Completed: 11-30-2018** Weekly Code Challenge
+    **Completed: 12-01-2018** Weekly Code Challenge
 
+29.  [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086 "Is n divisible by x and y?") <8 kyu>
+    **Completed: 12-07-2018** Weekly Coding Challenges (Countdown week 1)
