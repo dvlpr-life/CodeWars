@@ -96,3 +96,6 @@ Kata Listing
 
 30.  [Will you make it?](https://www.codewars.com/kata/will-you-make-it "Will you make it?") <8 kyu>
     **Completed: 12-07-2018** Weekly Coding Challenges (Countdown week 1)
+
+30.  [Array.diff](https://www.codewars.com/kata/array-dot-diff "Array.diff") <6 kyu>
+    **Completed: 12-22-2018** Weekly Coding Challenges
